@@ -23,7 +23,7 @@ A decentralized application that allows users to create time-locked vaults for t
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone
 cd time-locked-vault
 ```
 
@@ -35,12 +35,6 @@ npm install
 # Install frontend dependencies
 cd time-locked-vault-frontend
 npm install
-```
-
-3. Create a `.env` file in the root directory:
-```env
-PRIVATE_KEY=your_private_key
-ETHERSCAN_API_KEY=your_etherscan_api_key
 ```
 
 ## 🚀 Usage
